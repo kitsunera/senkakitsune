@@ -1,4 +1,4 @@
-## hi, im senka 🦊
+## hi, im senka ⪩. .⪨
 ### network pentester/exploit dev, programmer
 
 
