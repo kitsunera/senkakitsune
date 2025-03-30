@@ -3,9 +3,11 @@
 
 
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) <br>
 ![Network Exploits](https://img.shields.io/badge/Network%20Exploits-red?style=for-the-badge&logo=wireshark)  
-![Pentesting](https://img.shields.io/badge/Pentesting-DC143C?style=for-the-badge&logo=kalilinux)  
+![Pentesting](https://img.shields.io/badge/Pentesting-DC143C?style=for-the-badge&logo=kalilinux)
+
+
 
 
 
