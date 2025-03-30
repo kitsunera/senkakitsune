@@ -2,6 +2,13 @@
 ### network pentester/exploit dev, programmer
 
 
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+![Network Exploits](https://img.shields.io/badge/Network%20Exploits-red?style=for-the-badge&logo=wireshark)  
+![Pentesting](https://img.shields.io/badge/Pentesting-DC143C?style=for-the-badge&logo=kalilinux)  
+
+
+
 **Project highlights:** <br>
 *I do not post actualy network pentesting tool as i prefer to keep them to myself to not be liable for damage. however i might develop one soon for sale*
 - [URL-mirror](https://kvts.vercel.app) - open any link through an american proxy, whether trying to access news in restricted countries, or opening a potentially malicious/phishing page safely.
