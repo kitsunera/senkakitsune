@@ -1,4 +1,4 @@
-## hi, im senka ⪩. .⪨
+## hi, im kitsu ⪩. .⪨
 ### network penetration tester/firmware exploit dev, programmer
 https://senkakitsune.github.io
 <br>
