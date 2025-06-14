@@ -1,6 +1,6 @@
 ## hi, im kitsu ⪩. .⪨
 ### network penetration tester/firmware exploit dev, programmer
-https://kitsunera.github.io
+https://kitsunera.pages.dev
 <br>
 
 
